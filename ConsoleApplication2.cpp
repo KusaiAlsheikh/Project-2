@@ -1,7 +1,6 @@
-#include <stdbool.h>
-#include <math.h>
-#include <stdio.h>
-#include <string.h>
+#include <stdbool.h>//this allowed me to use bool variables in login
+#include <stdio.h>//this is a standard library 
+#include <string.h>//the command strcmp is taken from here
 
 typedef struct {
     char username[50];
