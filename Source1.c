@@ -24,7 +24,7 @@ bool login() {//this function is bool, it returns the value of true when a usern
             return 1;//if username and password are both correct login is given as true
         }
     }
-    printf("User not found, username or password incorrect.\n");
+    printf("User not found, username or pcassword incorrect.\n");
     return 0;//if username or password are incorrect login returns as false
 }
 int yes = 0;
