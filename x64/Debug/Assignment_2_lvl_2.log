@@ -1,0 +1,8 @@
+﻿  level2.c
+C:\Users\kusai\OneDrive\Desktop\CMPE140\Assignment_2_lvl_2\Assignment_2_lvl_2\level2.c(105,10): warning C4477: 'scanf_s' : format string '%s' requires an argument of type 'unsigned int', but variadic argument 2 has type 'size_t'
+C:\Users\kusai\OneDrive\Desktop\CMPE140\Assignment_2_lvl_2\Assignment_2_lvl_2\level2.c(105,10): message : this argument is used as a buffer size
+C:\Users\kusai\OneDrive\Desktop\CMPE140\Assignment_2_lvl_2\Assignment_2_lvl_2\level2.c(107,10): warning C4477: 'scanf_s' : format string '%s' requires an argument of type 'unsigned int', but variadic argument 2 has type 'size_t'
+C:\Users\kusai\OneDrive\Desktop\CMPE140\Assignment_2_lvl_2\Assignment_2_lvl_2\level2.c(107,10): message : this argument is used as a buffer size
+C:\Users\kusai\OneDrive\Desktop\CMPE140\Assignment_2_lvl_2\Assignment_2_lvl_2\level2.c(110,18): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\kusai\OneDrive\Desktop\CMPE140\Assignment_2_lvl_2\Assignment_2_lvl_2\level2.c(143,8): warning C4101: 'i': unreferenced local variable
+  Assignment_2_lvl_2.vcxproj -> C:\Users\kusai\OneDrive\Desktop\CMPE140\Assignment_2_lvl_2\x64\Debug\Assignment_2_lvl_2.exe
