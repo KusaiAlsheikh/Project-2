@@ -16,7 +16,6 @@ typedef struct {
 	char username[50];
 	char password[50];
 	voting_nu_t voting_nu;
-	bool is_admin;
 } user_t; // user struct that stores the username, password and vote result
 
 typedef struct {
